@@ -7,7 +7,7 @@ cask "supercode" do
   desc "Native macOS coding agent"
   homepage "https://supercode-terminal.vercel.app"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Supercode.app"
 
