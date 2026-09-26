@@ -1,6 +1,6 @@
 cask "supercode" do
-  version "0.1.2"
-  sha256 "b5e9a1146f3fcf8d050a26c78512907356f768c3b035e2dbd4e44b3f2317280e"
+  version "0.1.3"
+  sha256 "cbf85946bd112d19d45de9a4d7c50eea663d3e948f09a6322d30a2c0d249b7c5"
 
   url "https://github.com/yashdev9274/supercli/releases/download/desktop-v#{version}/Supercode-#{version}-universal-development.dmg"
   name "Supercode"
